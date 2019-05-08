@@ -46,7 +46,7 @@ $(call inherit-product, device/oneplus/oneplus6t/device.mk)
 ALLOW_MISSING_DEPENDENCIES := true
 
 # Discard inherited values and use our own instead.
-PRODUCT_NAME := omni_oneplus6t
+PRODUCT_NAME := omniverse_oneplus6t
 PRODUCT_DEVICE := oneplus6t
 PRODUCT_BRAND := OnePlus
 PRODUCT_MANUFACTURER := OnePlus
